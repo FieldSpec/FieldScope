@@ -434,7 +434,7 @@ export default function MarketingPage() {
                   fontWeight: 500,
                 }}
               >
-                With Fieldspec, <br /> reporting is no longer manual or slow.
+                With Fieldscope, <br /> reporting is no longer manual or slow.
               </h3>
               <div
                 style={{
